@@ -1,1 +1,0 @@
-# MCC-Asset-Management-System
